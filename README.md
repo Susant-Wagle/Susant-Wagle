@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cyphermatha Senior Penetration Tester | Offensive security Research | five years of working expereince on Offensive and Defensive AI model Acknowledgement by Facebook Yahoo Linkedin Yandex etc | Soruce code review python .net | 
+CypherMatha Senior Penetration Tester | Offensive security Research | five years of working expereince on Offensive and Defensive AI model Acknowledgement by Facebook Yahoo Linkedin Yandex etc | Source code review python .net | 
 
 
 ## 🌐 Socials:
